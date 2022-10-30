@@ -1,0 +1,73 @@
+Formato Gherkin:
+
+1.
+Feature: Descuentos en la plataforma
+Como gerente de marketing quiero aplicar descuentos en la plataforma para conseguir más usuarios.
+
+Scenario: Usuario nuevo ingresa a la plataforma
+Given: Un usuario que se ha registrado en la plataforma
+When: empieza a adquirir los cursos
+Then: la página le ofrecerá descuentos
+
+2.
+Feature: Campañas publicitarias
+Como gerente de marketing quiero hacer anuncios de mi plataforma en distintas redes sociales para conseguir mas usuarios
+
+Scenario: un usuario entre a un red social
+Given: Un usuario que se ha registrado en la plataforma
+When: empieza a navegar en una red social
+Then: observara el anuncio y le interesará entrar a la plataforma
+
+3.
+Feature: Oficialización de las universidades
+Como gerente de la empresa quiero que la aplicación sea validada y reconocida por las universidades a las cuales brindo un mapeo para conseguir mas renombre de la app.
+
+Scenario: Los gerentes desean alcanzar una mayor confianza con sus clientes
+Given: una universidad se da cuenta de la eficacia de nuestra app.
+When: nos contacta para hablar de nuestra app.
+Then: la universidad oficializará nuestra app.
+
+4.
+Feature: Semanas de prueba
+Como gerente de marketing quiero aplicar una semana de prueba del servicio premium para conseguir mas usuarios inversores.
+
+Scenario: El gerente de marketing desea captar mas clientes 
+Given: un usuario que se ha registrado en la plataforma
+When: un usuario que se ha registrado en la plataforma
+Then: un usuario que se ha registrado en la plataforma
+
+5.
+Feature: Validar datos
+Como estudiante nuevo quiero saber si la información que me brinda la app es real para seguir confiando en su ayuda.
+
+Scenario: Cualquier momento.
+Given: un "usuario" que se ha registrado en la plataforma.
+When: verifica que los "datos" son oficiales.
+Then: seguirá haciendo uso de la "app".
+
+6.
+Feature: Fácil manejo
+Como estudiante de intercambio deseo que sea de fácil uso el app para que no se me complique su manejo.
+
+Scenario: Estudiante extranjero quiere usar la app.
+Given: un "usuario" que se ha registrado en la plataforma.
+When: empieza a interactuar con la "app".
+Then: la "app" se le hará muy fácil de manejar.
+
+7.
+Feature: Descuentos por primeros ciclos
+Como nuevo estudiante deseo que la app me brinde un descuento con código para adquirir el servicio premium.
+
+Scenario: Nuevo estudiante que busca algún beneficio de serlo.
+Given: un "usuario" que se ha registrado en la plataforma.
+When: ingresa el "código" al ser "estudiante" nuevo.
+Then: la "app" le ofrecerá un descuento por ser "estudiante" nuevo.
+
+8.Feature: Cambio de idioma
+Como estudiante de traslado de otro país quiero que la aplicación se pueda traducir al inglés para poder comprenderla mejor.
+
+Scenario: Estudiante no sabe hablar muy bien el español y quiere traducir al inglés la aplicación.
+Given: un "usuario" que se ha registrado en la plataforma.
+When: seleccione la opción de "traducir".
+Then: la "app" se traducirá al ingles.
+
